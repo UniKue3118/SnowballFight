@@ -3,7 +3,7 @@
 
 /snowballfight를 이용하여 옵션 활성화/비활성화
 
-[눈덩이 폭발 플러그인]https://github.com/UniKue3118/SnowballExplosion과 같이 쓰기 바람
+[눈덩이 폭발 플러그인](https://github.com/UniKue3118/SnowballExplosion)과 같이 쓰기 바람
 
 ---
 
