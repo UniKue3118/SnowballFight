@@ -1,0 +1,15 @@
+name: SnowballFight
+version: '${version}'
+main: unikue3118.snowballfight.SnowballFight
+api-version: 1.19
+softdepend: [ SnowballExplosion ]
+authors: [ unikue3118 ]
+commands:
+  snowballfight:
+    description: 눈싸움 옵션 적용
+    usage: OP 권한 필요
+    permission: SnowballFight.Operator
+permissions:
+  SnowballFight.Operator:
+    description: OP
+    default: op
